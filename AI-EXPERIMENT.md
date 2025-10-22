@@ -10,7 +10,7 @@ This document describes an experiment in AI-assisted software development, showc
 
 ## 🎯 Experiment Objective
 
-**Primary Goal**: Demonstrate the capabilities and limitations of AI-assisted end-to-end software development in 2025.
+**Primary Goal**: Demonstrate the capabilities and limitations of AI-assisted end-to-end software development as of October 2025.
 
 **Research Questions**:
 1. Can AI create a complete, production-ready application from natural language requirements?
@@ -353,7 +353,7 @@ Try implementing the missing pieces:
 ## 📊 Project Statistics
 
 **Created**: October 15-22, 2025 (7 days)  
-**Development Time**: ~8 hours of conversation  
+**Development Time**: ~6 hours of conversation  
 **Manual Coding**: 0 lines  
 **AI-Generated Code**: ~3,800 lines  
 **Documentation**: ~2,000 lines  
@@ -395,7 +395,7 @@ Ask AI to add features, fix bugs, and refactor after months of "aging."
 
 ## 🤝 Credits
 
-**AI Assistant**: GitHub Copilot (GPT-4 based)  
+**AI Assistant**: GitHub Copilot (Claude Sonnet 3.5 based)  
 **Human Prompt Engineer**: [GKAYED](https://github.com/GKAYED)  
 **Experiment Date**: October 2025  
 **Purpose**: Research and education on AI-assisted development  
