@@ -7,24 +7,24 @@ A lightweight web-based agent that collects AI news, courses, and reading materi
 
 ## Features
 
-- ðŸ“° **Curated AI Sources**: 20+ trusted RSS feeds (arXiv, OpenAI, Google AI, DeepMind, HuggingFace, etc.)
-- ðŸŽ“ **Course Recommendations**: Pre-loaded with top AI courses (Stanford CS229, fast.ai, Coursera DL Specialization, etc.)
-- ðŸ“š **Reading Materials**: Essential papers, books, and tutorials
-- âœ… **Checkbox Tracking**: Mark items as read/completed with persistent state
-- ðŸ—‚ï¸ **Smart Categorization**: Automatically sorts items into news/courses/reading
-- ðŸŽ¨ **Clean Web UI**: Modern, responsive interface
-- ðŸ’¾ **SQLite Storage**: All data persisted locally
+- 📰 **Curated AI Sources**: 20+ trusted RSS feeds (arXiv, OpenAI, Google AI, DeepMind, HuggingFace, etc.)
+- 🎓 **Course Recommendations**: Pre-loaded with top AI courses (Stanford CS229, fast.ai, Coursera DL Specialization, etc.) 
+- 📚 **Reading Materials**: Essential papers, books, and tutorials
+- ✅ **Checkbox Tracking**: Mark items as read/completed with persistent state
+- 🗂️ **Smart Categorization**: Automatically sorts items into news/courses/reading
+- 🎨 **Clean Web UI**: Modern, responsive interface
+- 💾 **SQLite Storage**: All data persisted locally
 
 ## What's included
 
-- `src/server.js` â€” Express web server with REST API
-- `src/db.js` â€” SQLite database layer with schema
-- `src/sources/rssSource.js` â€” RSS feed fetcher
-- `src/sources/webScraper.js` â€” Generic web scraper (configurable selectors)
-- `src/organizer.js` â€” Categorization logic
-- `src/config.js` â€” **Configurable list of AI resources** (edit to add/remove sources)
-- `public/index.html` â€” Web UI with checkboxes and filters
-- `Dockerfile` â€” Container setup for easy deployment
+- `src/server.js` — Express web server with REST API
+- `src/db.js` — SQLite database layer with schema
+- `src/sources/rssSource.js` — RSS feed fetcher
+- `src/sources/webScraper.js` — Generic web scraper (configurable selectors)
+- `src/organizer.js` — Categorization logic
+- `src/config.js` — **Configurable list of AI resources** (edit to add/remove sources)
+- `public/index.html` — Web UI with checkboxes and filters
+- `Dockerfile` — Container setup for easy deployment
 
 ## Quick Start (Docker - Recommended)
 
