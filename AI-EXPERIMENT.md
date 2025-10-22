@@ -395,7 +395,7 @@ Ask AI to add features, fix bugs, and refactor after months of "aging."
 
 ## 🤝 Credits
 
-**AI Assistant**: GitHub Copilot (Claude Sonnet 3.5 based)  
+**AI Assistant**: GitHub Copilot (Claude Sonnet 4.5 based)  
 **Human Prompt Engineer**: [GKAYED](https://github.com/GKAYED)  
 **Experiment Date**: October 2025  
 **Purpose**: Research and education on AI-assisted development  
